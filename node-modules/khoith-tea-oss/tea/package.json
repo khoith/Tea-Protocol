@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrbecek/mrbecek-tea-oss.git"
+    "url": "https://github.com/khoith/Tea-Protocol"
   },
   "keywords": [
     "npm"
   ],
-  "author": "mrbecek",
+  "author": "khoith",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mrbecek/mrbecek-tea-oss/issues"
+    "url": "https://github.com/khoith/Tea-Protocol/issues"
   },
-  "homepage": "https://github.com/mrbecek/mrbecek-tea-oss#readme",
+  "homepage": "https://github.com/khoith/Tea-Protocol#readme",
   "dependencies": {
     "mrbecek-tea-oss": "^1.0.0"
   },
