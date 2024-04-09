@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/khoith/Tea-Protocol#readme",
   "dependencies": {
-    "khoith-tea-oss": "^1.0.0"
+    "Tea-Protocol": "^1.0.0"
   },
   "devDependencies": {}
 }
